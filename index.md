@@ -21,7 +21,7 @@ This is a word game which give you 7 randow letter and you should use them to cr
 
 ### Project2 
 [**MEAN stack login system**](https://qxzhang1994.github.io/loginSystem/)
-This is a simple web app with four major functions: 1) A registration system, 2) A login system, 3) A change password page, and 4) after successful login show the user all previous login times. Allow registration in two ways: password and at OAuth service github. I established this project with MEAN stack. 
+This is a simple web app with major functions: register, login and change password. Besides, it also shows the user all previous login times after successful login. Allow registration in two ways: password and at OAuth service github. I established this project with MEAN stack. 
 
 ## Summary
-I know nothing about web before. I learnt how to code HTML, CSS, Javascript according to this course. Text Twist is an entry-level web project for me. From this project I know many API for Javescript. And know the relation between Javascript, HTML and CSS.What impressed most is when I do the second project. I spent lots of time in setup OAth service. 
+I know nothing about web before. I learnt how to code HTML, CSS, Javascript according to this course. Text Twist is an entry-level web project for me. From this project I know many API for Javescript. And know the relation between Javascript, HTML and CSS and dataflow among them. What impressed most is when I do the second project. I spent lots of time in setup OAuth service. In summary, I learnt a lot from this course and I will spent more time to know more about web coding. 
