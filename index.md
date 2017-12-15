@@ -4,8 +4,7 @@ This is my wesite for [Web Applications Security](http://websec.prof.ninja/),inc
 
 
 ## Project1
-[link](http://project1.qinxin.me)
-**text twist**
+[**text twist**](https://qxzhang1994.github.io/text-twist/)
 
 Project1 is a web text twist game
 
