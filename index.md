@@ -36,15 +36,15 @@ This is my wesite for [Web Applications Security](http://websec.prof.ninja/),inc
 - Basic Payment Handling
 
 
-## Projects this semester
+## Projects
 ### Project1
 [**text twist**](https://qxzhang1994.github.io/text-twist/)
 
-Project1 is a web text twist game
+This is a simple web text twist game
 
 
 ### Project2 
 [**MEAN stack login system**](https://qxzhang1994.github.io/loginSystem/)
 
-Project2 is a MEAN stack login system 
+This is a MEAN stack login system 
 
